@@ -28,3 +28,15 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
 - Next.js 13 Metadata and Search Engine Optimization (SEO)
 
+## Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts.
+- use Next js 13 with React and Tailwind CSS 
+- use Next Auth to login with Google.
+- use Mongo DB to store user prompts
+- make Serverless Route Handlers to handle backend endpoints apis.
+- after user login with his google account he can create/edit/delete his prompts
+-each user has a profile 
+- any user can search by prompt title / description / username 
+and here we apply debounced mechanism ( delay search functionality to certain time to prevents frequent search calls )
+
+✔Technologies :  Next.js - React.js - MongoDB - Tailwind CSS ·
+
